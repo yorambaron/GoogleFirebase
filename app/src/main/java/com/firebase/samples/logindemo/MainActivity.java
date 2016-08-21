@@ -51,7 +51,7 @@ import java.util.Map;
  */
 public class MainActivity extends ActionBarActivity implements
         GoogleApiClient.ConnectionCallbacks,
-        GoogleApiClient.OnConnectionFailedListener { // test
+        GoogleApiClient.OnConnectionFailedListener { // testing
 
     private static final String TAG = MainActivity.class.getSimpleName();
 
