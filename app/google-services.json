@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "935178798687",
+    "firebase_url": "https://fruitful-60ef3.firebaseio.com",
+    "project_id": "fruitful-60ef3",
+    "storage_bucket": "fruitful-60ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935178798687:android:e3a0a1d14276e066",
+        "android_client_info": {
+          "package_name": "fruitful.com.fruitful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935178798687-vattvssq19mhtv73qgf9nmj4sh9gla7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBbK05dMjl0-tsgYdKtQdvudQD8t5QOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
