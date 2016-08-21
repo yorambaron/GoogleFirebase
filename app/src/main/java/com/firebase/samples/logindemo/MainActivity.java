@@ -61,6 +61,8 @@ public class MainActivity extends ActionBarActivity implements
     /* TextView that is used to display information about the logged in user */
     private TextView mLoggedInStatusTextView;
 
+    private String xx = "Hello";
+
     /* A dialog that is presented until the Firebase authentication finished. */
     private ProgressDialog mAuthProgressDialog;
 
